@@ -28,7 +28,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 1. Watch the workflow running in the checks section of the pull request.
 1. Notice the comment that the workflow adds to the pull request.
 1. Wait about 20 seconds, then refresh this page (the one you're following instructions from). Another workflow will run and will replace the contents of this README file with instructions for the next step.
-2222222222zzzzzzzzzzzzllllll
+2222222222zzzzzzzzzzzzllllllkkkkkkkk
 <footer>
 
 ---
